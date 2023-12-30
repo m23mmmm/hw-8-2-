@@ -1,0 +1,39 @@
+td:nth-child(2){
+    color: rgb(0, 15, 131);
+}
+td:nth-child(3) {
+    color: rgb(97, 9, 184);
+}
+td:nth-child(4) {
+    color: rgb(129, 0, 158);
+}
+td:nth-child(5) {
+    color: rgb(156, 0, 122);
+}
+td:nth-child(6) {
+    color: rgb(196, 7, 206);
+}
+td:nth-child(7) {
+    color: rgb(209, 16, 196);
+}
+tr {
+    font-family: 'Ubuntu', sans-serif;
+}
+caption {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+}
+td:first-child{
+    margin-right: 8px;
+    border: 1.5px solid #5600B2;
+}
+td:nth-child(n+2){
+    background-color: #a78cf431;
+}
+th {
+    border: 1.5px solid #5600B2;
+    background-color: #52379a3e;
+}
+td:first-child {
+    background-color: #3a0eb431;
+}
